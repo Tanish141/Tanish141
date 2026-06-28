@@ -4,7 +4,7 @@ Hi, I'm Tanish 👋<br><br>MCA graduate and passionate Software Developer with e
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-s-7a815a220/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://my-portfolio-ashen-three-92.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://tanish-s-portfolio.vercel.app/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrtanish14@gmail.com)
 
 # 💻 Tech Stack:
